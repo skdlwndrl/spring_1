@@ -7,7 +7,7 @@
 <link href="./etc/css/home.css" rel="stylesheet">
 <body>
 <h1>
-	Hello world!  
+	Hello world!  Spring
 </h1>
 
 <img alt="" src="./resources/images/ana.png">
